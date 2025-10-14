@@ -1,6 +1,7 @@
 # Supply Chain Management using Azure Databricks
 
-This project is focused on optimizing supply chain operations by calculating the **shortest delivery routes for customers** and providing insights through interactive dashboards. Built entirely on **Azure** services with **Databricks** at the core, the project follows a robust Medallion Architecture to manage data quality and pipeline stages effectively.
+This project focuses on optimizing supply chain operations by analyzing large-scale data from multiple sources and providing actionable insights through interactive dashboards. It is built entirely on **Azure** cloud services, leveraging **Azure Data Factory**, **Azure Databricks**, and **Azure Data Lake Storage (ADLS)**.  
+Data processing and transformations are implemented using **PySpark** and **Spark SQL** within Databricks notebooks, following a robust **Medallion Architecture (Bronze–Silver–Gold)** to ensure data quality and consistency across all stages.
 
 ---
 
