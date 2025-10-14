@@ -4,6 +4,14 @@ This project is focused on optimizing supply chain operations by calculating the
 
 ---
 
+## 🎥 Project Demo
+
+[Watch the demo video on Google Drive](https://drive.google.com/file/d/1EXMnPEq3ECIJe3sxeN4NYe1KJfKFNnHS/view?usp=sharing)
+
+> If the above link doesn’t render as a preview, you can also copy the link into your browser to view.
+
+---
+
 ## Project Overview
 
 -  **Data Source**: Ingested quarterly (every 3 months) via **Azure Data Factory (ADF)** using event-triggered pipelines.
@@ -74,13 +82,8 @@ This project is focused on optimizing supply chain operations by calculating the
 
 /notebooks
 
-├── ingestion/
-
-├── cleaning/
-
-├── feature_engineering/
-
-├── aggregation/
-
+├── ingestion/  
+├── cleaning/  
+├── feature_engineering/  
+├── aggregation/  
 └── dashboard/
-
