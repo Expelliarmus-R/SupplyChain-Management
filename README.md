@@ -17,7 +17,7 @@ Data processing and transformations are implemented using **PySpark** and **Spar
 
 -  **Data Source**: Ingested quarterly (every 3 months) via **Azure Data Factory (ADF)** using event-triggered pipelines.
 -  **Storage**: Leveraging **Medallion Architecture** with Bronze, Silver, and Gold layers using Azure Data Lake Storage (ADLS).
--  **Processing**: Data cleaning, transformation, and feature engineering using **Azure Databricks**.
+-  **Processing**: Data cleaning, transformation, and feature engineering using **Pyspark** in **Databricks**.
 -  **Analysis**: Final dashboards built on top of **Gold Layer** datasets using **Databricks Dashboards**.
 -  **Version Control**: Code is maintained and tracked via **GitHub** for collaboration and safety.
 
