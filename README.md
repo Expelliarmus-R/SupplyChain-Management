@@ -28,7 +28,7 @@ Data processing and transformations are implemented using **PySpark** and **Spar
 - **Azure Data Factory (ADF)** – Data ingestion and scheduling
 - **Azure Databricks** – Data engineering, processing, and dashboarding
 - **Azure Data Lake Storage (ADLS)** – Data storage using Medallion Architecture (Bronze, Silver, Gold)
-- **GitHub** – Version control and CI/CD (optional)
+- **GitHub** – Version control and CI/CD 
 - **Spark SQL / PySpark** – Data transformations and feature engineering
 
 ---
