@@ -5,7 +5,7 @@ Data processing and transformations are implemented using **PySpark** and **Spar
 
 ---
 
-## 🎥 Project Demo
+##  Project Demo
 
 [Watch the demo video on Google Drive](https://drive.google.com/file/d/1EXMnPEq3ECIJe3sxeN4NYe1KJfKFNnHS/view?usp=sharing)
 
